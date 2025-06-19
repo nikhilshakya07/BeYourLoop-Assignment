@@ -26,3 +26,24 @@ npm install
 cp .env.example .env
 # then fill the variables
 npm run dev
+```
+
+## 🔗 API Endpoints
+
+| Method | Route                | Description                  |
+| ------ | -------------------- | ---------------------------- |
+| POST   | `/api/auth/register` | Register user                |
+| POST   | `/api/auth/login`    | Login user                   |
+| GET    | `/api/auth/me`       | Get current user (Protected) |
+
+## 📁 Project Structure
+```
+backend/
+├── controllers/
+├── routes/
+├── models/
+├── middleware/
+├── config/
+├── .env.example
+├── server.js
+```
