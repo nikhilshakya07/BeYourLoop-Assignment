@@ -7,7 +7,7 @@ import Header from './components/common/Header';
 import Footer from './components/common/Footer';
 
 // Import pages
-import Home from './pages/Home.jsx';
+import Home from './pages/Home.jsx'; 
 import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
 import Login from './pages/Login.jsx';
