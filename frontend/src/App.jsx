@@ -7,12 +7,12 @@ import Header from './components/common/Header';
 import Footer from './components/common/Footer';
 
 // Import pages
-import Home from './pages/Home.jsx'; 
-import About from './pages/About.jsx';
-import Contact from './pages/Contact.jsx';
-import Login from './pages/Login.jsx';
-import Register from './pages/Register.jsx';
-import Dashboard from './pages/Dashboard.jsx';
+import Home from './Pages/Home.jsx'; 
+import About from './Pages/About.jsx';
+import Contact from './Pages/Contact.jsx';
+import Login from './Pages/Login.jsx';
+import Register from './Pages/Register.jsx';
+import Dashboard from './Pages/Dashboard.jsx';
 
 function App() {
   return (
